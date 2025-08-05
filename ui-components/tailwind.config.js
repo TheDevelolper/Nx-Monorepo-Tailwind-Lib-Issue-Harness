@@ -10,7 +10,6 @@ module.exports = {
     ),
     ...createGlobPatternsForDependencies(__dirname),
   ],
-  safelist: ['bg-blue-500'],
   theme: {
     extend: {},
   },
